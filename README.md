@@ -14,7 +14,7 @@
 </p>
 
   
-| Statics | Contact |
+| Statistcs | Contact |
 | --- | --- |
 | [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanVargens&layout=compact)](https://github.com/AllanVargens/github-readme-stats) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-vargens-silva-973978196/) |
 
